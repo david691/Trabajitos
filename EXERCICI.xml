@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aplicacions>
+    <aplicaciio>
+        <nom codi="1">instagram</nom>
+        <descrpcio>penjar imatges</descripcio>
+        <tipus>imatges</tipus>
+        <fabricant>Kevin Systrom</fabricant>
+    </aplicacio>
+    <aplicacio>
+        <nom codi="2">discord</nom>
+        <descripcio>crida i envia missatges</descripcio>
+        <tipus>missatges</tipus>
+        <fabricant>Jason Citron</fabricant>
+        </aplicacio>
+        <aplicacio>
+<nom codi="3">youtube</nom>
+        <descripcio>mirar o putjar videos</descripcio>
+        <tipus>videos</tipus>
+        <fabricant>Gerry</fabricant>
+        </aplicacio>
+        <aplicacio>
+        <nom codi="4">twich</nom>
+        <descripcio>videos en directe</descripcio>
+        <tipus>streaming</tipus>
+        <fabricant>Justin Kan</fabricant>
+        </aplicacio>
+        <aplicacio>
+        <nom codi="5">clash royale</nom>
+        <tipus>joc</tipus>
+        <descripcio>joc de cartes online</descripcio>
+        <fabricant>super cell</fabricant>
+        </aplicacions>
+        <aplicacio>
+        <nom codi="6">whatssapp</nom>
+        <descripcio>crida i envia missatges</descripcio>
+        <tipus>missatges</tipus>
+        <fabricant>Joande</fabricant>
+        </aplicacio>
+        <aplicacio>
+        <nom codi="7">netflix</nom>
+        <tipus>seies i pelicules</tipues>
+        <descripcio>veure series i pelicules</descripcio>
+        <fabricant>Marc Randolph<fabricant>
+        </aplicacio>
+        <aplicacio>
+        <nom codi="8">dokkan battle</nom>
+        <descripcio>joc de bolles de colors</descripcio>
+        <tipus>joc</tipus>
+        <fabricant>Bandai<fabricant>
+        </aplicacio>
+        <nom codi="9">facebook</nom>
+        <descripcio>imatges i publicacion en missatgeria</descripcio>
+        <tipus>publicacions</tipus>
+        <fabricant>Marc Zuckerber</fabricant>
+        </aplicacio>
+        <aplicacio>
+        <nom codi="10">Amazon</nom>
+        <descripcio>compres online en un dia</descripcio>
+        <tipus>compres</tipus>
+        <fabricant>Jeffrey Bezos</fabricant>
+        </aplicacio>
+        </aplicacions> 
